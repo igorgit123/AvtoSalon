@@ -10,6 +10,6 @@ Adding car ads, browsing cars, buying or renting. If you click buy, you have to 
 
 **Tools used**
 
-*Typescript
-*React
-*VScode
+* Typescript
+* React
+* VScode
