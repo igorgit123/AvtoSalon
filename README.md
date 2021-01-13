@@ -2,7 +2,7 @@
 
 **Overview**
 
-Basic car selling web app.
+Basic car selling web app made for a school project.
 
 **Functionality**
 
